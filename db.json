@@ -1,0 +1,16 @@
+{
+    "weather": [
+      {
+        "id": 1,
+        "city": "London",
+        "temperature": "18.67",
+        "conditions": "Cloudy"
+      },
+      {
+        "id": 2,
+        "city": "New York",
+        "temperature": "24",
+        "conditions": "Sunny"
+      }
+    ]
+  }
